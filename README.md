@@ -42,13 +42,12 @@ Use this interface to explore and interact with the endpoints provided by the Mi
 Contributions are welcome! If you find any issues or have suggestions for improvements, 
 please open an issue or submit a pull request.
 
+Feel free to customize this template to fit the specifics of your MicroShop project. 
+You can add more sections, such as Usage, Testing, Deployment, etc., 
+depending on the requirements and complexity of your project. 
+
+Let me know if you need further assistance or have any questions!
+
 ## License
 
 This project is licensed under the MIT License.
-
-   ```bash
-   Feel free to customize this template to fit the specifics of your MicroShop project. 
-   You can add more sections, such as Usage, Testing, Deployment, etc., 
-   depending on the requirements and complexity of your project. 
-   
-   Let me know if you need further assistance or have any questions!
