@@ -1,6 +1,5 @@
-from fastapi import FastAPI
-
 import uvicorn
+from fastapi import FastAPI
 
 from items_views import router as items_router
 from users.views import router as users_router
@@ -32,5 +31,5 @@ def add(a: int, b: int):
     }
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     uvicorn.run("main:app", reload=True)
