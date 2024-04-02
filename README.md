@@ -46,8 +46,9 @@ please open an issue or submit a pull request.
 
 This project is licensed under the MIT License.
 
-Feel free to customize this template to fit the specifics of your MicroShop project. 
-You can add more sections, such as Usage, Testing, Deployment, etc., 
-depending on the requirements and complexity of your project. 
-
-Let me know if you need further assistance or have any questions!
+   ```bash
+   Feel free to customize this template to fit the specifics of your MicroShop project. 
+   You can add more sections, such as Usage, Testing, Deployment, etc., 
+   depending on the requirements and complexity of your project. 
+   
+   Let me know if you need further assistance or have any questions!
