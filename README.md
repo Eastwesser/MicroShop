@@ -16,17 +16,17 @@ MicroShop is a simple e-commerce microservice built with FastAPI.
    ```bash
    git clone https://github.com/your-username/microshop.git
 
-## Navigate to the project directory:
+2. **Navigate to the project directory:**
 
     ```bash
     cd microshop
     
-## Install dependencies using Poetry:
+3. **Install dependencies using Poetry:**
 
     ```bash
     poetry install
 
-## Run the development server:
+4. **Run the development server:**
 
     ```bash
     uvicorn main:app --reload
