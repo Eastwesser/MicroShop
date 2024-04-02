@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "micro-shop"
+version = "0.1.0"
+description = ""
+authors = ["Dennis Mattews <alttert@mail.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
